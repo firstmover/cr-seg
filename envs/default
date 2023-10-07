@@ -1,0 +1,8 @@
+export PYTHONHASHSEED=0
+export PYTHONPATH={{change this to where you downloaded this repo. for example: /home/user_name/code/cr_seg/}}:$PYTHONPATH
+
+conda activate cr_seg
+
+export JOBLIB_CACHE={{change this to where you save cache. for example: /home/user_name/.cache/}}
+export DATA_ROOT={{change this to where you save your data. for example: /home/user_name/data/cr_seg/}}
+export RESULT_ROOT={{change this to where you save your results. for example: /home/user_name/results/cr_seg/}}
