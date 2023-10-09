@@ -1,6 +1,6 @@
 ## Consistency Regularization Improves Placenta Segmentation in Fetal EPI MRI Time Series
 
-This repo includes the code for the paper [Liu et al. 2023]().
+This repo includes the code for the paper [Liu et al. 2023](https://arxiv.org/pdf/2310.03870.pdf).
 
 ![Python 3.9](https://img.shields.io/badge/Python-3.9%2B-brightgreen.svg)
 [![GitHub Repo Stars](https://img.shields.io/github/stars/firstmover/cr-seg?label=Stars&logo=github&color=red)](https://github.com/firstmover/cr-seg)
