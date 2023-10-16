@@ -127,7 +127,7 @@ streamlit run scripts/visualization/time_series.py -- --result_root ./results/se
 ### todos 
 - [ ] Add commands for non-slurm users 
 - [ ] Add more details for data set structures 
-- [ ] Update citation
+- [x] Update citation
 
 ### Acknowledgement
 - [mabulnaga/automatic-placenta-segmentation](https://github.com/mabulnaga/automatic-placenta-segmentation)
@@ -140,6 +140,14 @@ This repo is licensed under the MIT License and the copyright belongs to all aut
 ### Citation
 
 ```
+@inproceedings{liu2023consistency,
+  title={Consistency Regularization Improves Placenta Segmentation in Fetal EPI MRI Time Series},
+  author={Liu, Yingcheng and Karani, Neerav and Abulnaga, S Mazdak and Xu, Junshen and Grant, P Ellen and Abaci Turk, Esra and Golland, Polina},
+  booktitle={International Workshop on Preterm, Perinatal and Paediatric Image Analysis},
+  pages={77--87},
+  year={2023},
+  organization={Springer}
+}
 ```
 
 ### Contact
